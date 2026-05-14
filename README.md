@@ -1,6 +1,8 @@
                                       **YouTube Client for XBMC 9.11 (Camelot)**
 
-why i have made this script at the first place: i found that vintage media center has better logic and skin engine that i have seen many modern media centers fails at that specific point, i hope my reason actually makes sense for some _specific_ people.
+why i have made this script at the first place: i found that vintage media center has better logic and skin engine that i have seen many modern media centers fails at that specific point, i hope my reason actually makes sense for some _specific_ people, also i don't like the current statement of 'YouTube' as they do: forced 'YouTube Shorts', ads everywhere, the ui is too bloated, the algorithm's recommendations is just *bad* (even though the user has its specific trailors, it shows forbidden videos which i demand, etc etc..
+
+but with this client, you get simplified experience, with no suffering and crumbs, just straightforward menu where you have your needs at one place, play and view, and that's all. (i just miss how the old youtube were looking like that before..)
 
 (here you can get XBMC 9.11 with the specialized xbox 360 blades dashboard at 'https://github.com/Fabxx/XBMC360')
 
@@ -31,6 +33,8 @@ fully made from the zero (from help of python guidances and it's education)
 i really learnt a lot from that project from coding to more technology's logic and knowledge.
 
 this script maybe be useless for some people but, i really hope you enjoy as i did, this is really peak for anyone who has xbmc 9.11, skins, and stuff.
+
+oh, and don't forget to shout out for feedbacks and pull requests for future features and bugs' fixations, your feedback really matters.
 
 \this script is used for the next open-source components/
 
