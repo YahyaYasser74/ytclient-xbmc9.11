@@ -36,7 +36,7 @@ this script maybe be useless for some people but, i really hope you enjoy as i d
 
 {yt-dlp: for the core of youtube's servers, proxy, downloaders, etc..
 
-python: for the XBMC's default.py script.}
+python: for the XBMC's default.py & yt-dlp proxy.py scripts.}
 
 -----------------------------------------------------------------------------------------
 
