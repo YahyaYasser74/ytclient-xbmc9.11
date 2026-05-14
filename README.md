@@ -24,4 +24,12 @@ i really learnt a lot from that project from coding to more technology's logic a
 
 this script maybe be useless for some people but, i really hope you enjoy as i did, this is really peak for anyone who has xbmc 9.11, skins, and stuff.
 
+\this script is used for the next open-source components/
+
+{yt-dlp: for the core of youtube's servers, proxy, downloaders, etc..
+
+python: for the XBMC's default.py script.}
+
+-----------------------------------------------------------------------------------------
+
 so that's all, have a good day at playing your videos in an peaceful atmosphere, cya! :))
