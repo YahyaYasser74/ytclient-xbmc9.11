@@ -1,4 +1,4 @@
-                                         **YouTube Client for XBMC 9.11 (Camelot)**
+                                      **YouTube Client for XBMC 9.11 (Camelot)**
 
 why i have made this script at the first place: i found that vintage media center has better logic and skin engine that i have seen many modern media centers fails at that specific point, i hope my reason actually makes sense for some _specific_ people.
 
