@@ -18,8 +18,8 @@ my script holds many feature keys and 'how' and **why** this is so much better t
 
 ---------------------------------------------------------------------------------------------------------------------------
 # .1 simply open cmd via file explorer navigation bar, and execute 'python proxy.py'
-# .2 open and edit 'default.py', at the first lines, you can find user's configurations, change these values to your liking
-# .3 if you encountered playback errors, or proxy errors, make sure to check 'proxy.log', or definitely make sure the server is successfully running as well.
+# .2 open and edit 'default.py', at the first lines, you can find user's configurations, change these values/paths to your liking
+# .3 if you encountered playback errors, or proxy errors either, make sure to check 'proxy.log', or definitely make sure the server is successfully running as well.
 ---------------------------------------------------------------------------------------------------------------------------
 
 maybe, i thought it would be a cool project tho, it does this job too well than many paid/modded clients that does nothing instead of patching and fighting for future updates to stay alive in the plot
