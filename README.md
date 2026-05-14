@@ -22,6 +22,6 @@ fully made from the zero (from help of python guidances and it's education)
 
 i really learnt a lot from that project from coding to more technology's logic and knowledge.
 
-this script maybe be useless for some people but, i really hope you enjoy as i did, this is really peak for anyone who has xbmc 9.11, skins. and stuff.
+this script maybe be useless for some people but, i really hope you enjoy as i did, this is really peak for anyone who has xbmc 9.11, skins, and stuff.
 
 so that's all, have a good day at playing your videos in an peaceful atmosphere, cya! :))
