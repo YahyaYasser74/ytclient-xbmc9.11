@@ -12,7 +12,7 @@ my script holds many feature keys and 'how' and **why** this is so much better t
 
 .2 Watch Later, Search, and Video History Management (with ducplicate detector deletion)
 
-.3 Play Video with certain options (such as play video at 144p, 240p, 360p, 480p, subtitles downloader and selector)
+.3 Play Video with certain options (such as play video at 144p, 240p, 360p, 480p, video's extension, and subtitles downloader and selector)
 
 maybe, i thought it would be a cool project tho, it does this job too well than many paid/modded clients that does nothing instead of patching and fighting for future updates to stay alive in the plot
 
