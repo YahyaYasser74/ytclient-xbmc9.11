@@ -8,11 +8,19 @@ why i have made this script at the first place: i found that vintage media cente
 
 my script holds many feature keys and 'how' and **why** this is so much better than the **regular** 'YouTube' clients?
 
-.1 Downloader Videos: You can download videos + with various download's options (such as video quality and the video's extension)
+.1 Downloader Videos: You can download videos + with various download's options (such as video's quality and the video's extension)
 
 .2 Watch Later, Search, and Video History Management (with ducplicate detector deletion)
 
 .3 Play Video with certain options (such as play video at 144p, 240p, 360p, 480p, video's extension, and subtitles downloader and selector)
+
+(the scripts' notes: how i can adjust my settings? and how i can start the script? etc..)
+
+---------------------------------------------------------------------------------------------------------------------------
+# .1 simply open cmd via file explorer navigation bar, and execute 'python proxy.py'
+# .2 open and edit 'default.py', at the first lines, you can find user's configurations, change these values to your liking
+# .3 if you encountered playback errors, or proxy errors, make sure to check 'proxy.log', or definitely make sure the server is successfully running as well.
+---------------------------------------------------------------------------------------------------------------------------
 
 maybe, i thought it would be a cool project tho, it does this job too well than many paid/modded clients that does nothing instead of patching and fighting for future updates to stay alive in the plot
 
