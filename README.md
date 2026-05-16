@@ -6,6 +6,8 @@ but with this client, you get simplified experience, with no suffering and crumb
 
 (here you can get XBMC 9.11 with the specialized xbox 360 blades dashboard at 'https://github.com/Fabxx/XBMC360')
 
+*REQUIREMENTS*: Python (latest version), have a little common in coding knowledge (for editing the scripts).
+
 /this repo is made for those people who goes to the *nostalgia* mood, and holds a sense of enlightment and gracious wave of relif/
 
 my script holds many feature keys and 'how' and **why** this is so much better than the **regular** 'YouTube' clients?
@@ -19,9 +21,12 @@ my script holds many feature keys and 'how' and **why** this is so much better t
 (the scripts' notes: how i can adjust my settings? and how i can start the script? etc..)
 
 ---------------------------------------------------------------------------------------------------------------------------
-# .1 simply open cmd via file explorer navigation bar, and execute 'python proxy.py'
-# .2 open and edit 'default.py'/'proxy.py', at the first lines, you can find/see the user's configurations, change these values/paths to your liking
-# .3 if you encountered playback errors, or proxy errors either, make sure to check 'proxy.log', or definitely make sure the server is successfully running as well.
+# .1 install XBMC already via the link i have sent above, and go through the installer, select 'portable mode' option
+# .2 after finishing installing, download the xbmc.bat from my source and place it in your xbmc installation path, open it
+# .2.5 place my script folder onto the 'scripts' folder in xbmc installation path 
+# .3 to start the youtube proxy server, simply open 'proxy.py' and it starts the server and checking the dependences stuff
+# .4 open and edit 'default.py'/'proxy.py', at the first lines, you can find/see the user's configurations, change these values/paths to your liking
+# .5 if you encountered playback errors, or proxy errors either, make sure to check 'proxy.log', or definitely make sure the server is successfully running as well.
 ---------------------------------------------------------------------------------------------------------------------------
 
 maybe, i thought it would be a cool project tho, it does this job too well than many paid/modded clients that does nothing instead of patching and fighting for future updates to stay alive in the plot
