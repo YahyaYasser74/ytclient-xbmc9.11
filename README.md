@@ -22,7 +22,7 @@ my script holds many feature keys and 'how' and **why** this is so much better t
 
 ---------------------------------------------------------------------------------------------------------------------------
 # .1 install XBMC already via the link i have sent above, and go through the installer, select 'portable mode' option
-# .2 after finishing installing, download the xbmc.bat from my source and place it in your xbmc installation path, open it
+# .2 after finishing installing, create a folder called 'portable_data', then download the 'XBMC.bat' from my source and place it in your xbmc installation path, open it
 # .2.5 place my script folder onto the 'scripts' folder in xbmc installation path 
 # .3 to start the youtube proxy server, simply open 'proxy.py' and it starts the server and checking the dependences stuff
 # .4 open and edit 'default.py'/'proxy.py', at the first lines, you can find/see the user's configurations, change these values/paths to your liking
