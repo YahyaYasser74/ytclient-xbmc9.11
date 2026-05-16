@@ -16,7 +16,7 @@ my script holds many feature keys and 'how' and **why** this is so much better t
 
 .2 Watch Later, Search, and Video History Management (with ducplicate detector deletion)
 
-.3 Play Video with certain options (such as play video at 144p, 240p, 360p, 480p, video's extension, and subtitles downloader and selector)
+.3 Play Video with certain options (such as play video at 144p, 240p, 360p, 480p, 720p, video's extension, and subtitles downloader and selector)
 
 (the scripts' notes: how i can adjust my settings? and how i can start the script? etc..)
 
@@ -45,7 +45,7 @@ oh, and don't forget to shout out for feedbacks and pull requests for future fea
 
 {yt-dlp: for the core of youtube's servers, proxy, downloaders, etc..
 
-python: for the XBMC's default.py & yt-dlp proxy.py scripts.}
+python: for the XBMC's default.py & yt-dlp proxy.py & generate_cookies.py scripts.}
 
 -----------------------------------------------------------------------------------------
 
