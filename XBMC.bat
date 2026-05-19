@@ -1,4 +1,4 @@
-mpv.exe -fs "E:\xb360\Xbox 360 blades HD.webm" 
+mpv.exe -fs "C:\place\your\xbmc\path\Xbox 360 blades HD.webm" 
 
 @echo off
 set PATH=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem
